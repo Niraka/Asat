@@ -1,0 +1,8 @@
+C:\Users\Nathan\Desktop\Asat\AsatUnitTests\bin\Debug\AsatUnitTests.dll
+C:\Users\Nathan\Desktop\Asat\AsatUnitTests\bin\Debug\AsatUnitTests.pdb
+C:\Users\Nathan\Desktop\Asat\AsatUnitTests\bin\Debug\Asat.dll
+C:\Users\Nathan\Desktop\Asat\AsatUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Nathan\Desktop\Asat\AsatUnitTests\bin\Debug\Asat.pdb
+C:\Users\Nathan\Desktop\Asat\AsatUnitTests\obj\Debug\AsatUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\Asat\AsatUnitTests\obj\Debug\AsatUnitTests.dll
+C:\Users\Nathan\Desktop\Asat\AsatUnitTests\obj\Debug\AsatUnitTests.pdb

@@ -1,0 +1,10 @@
+C:\Users\Nathan\Desktop\Asat\AsatTest\bin\Debug\AsatTest.exe.config
+C:\Users\Nathan\Desktop\Asat\AsatTest\bin\Debug\AsatTest.exe
+C:\Users\Nathan\Desktop\Asat\AsatTest\bin\Debug\AsatTest.pdb
+C:\Users\Nathan\Desktop\Asat\AsatTest\bin\Debug\Asat.dll
+C:\Users\Nathan\Desktop\Asat\AsatTest\bin\Debug\Asat.pdb
+C:\Users\Nathan\Desktop\Asat\AsatTest\obj\Debug\AsatTest.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\Asat\AsatTest\obj\Debug\AsatTest.exe
+C:\Users\Nathan\Desktop\Asat\AsatTest\obj\Debug\AsatTest.pdb
+C:\Users\Nathan\Desktop\Asat\AsatTest\bin\Debug\Dapper.dll
+C:\Users\Nathan\Desktop\Asat\AsatTest\bin\Debug\Dapper.xml
